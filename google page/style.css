@@ -1,0 +1,97 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    margin: 30px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.header a,img{
+    padding: 10px;
+}
+.header a{
+    text-decoration: none;
+    color: black;
+}
+.header a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.header img:hover{
+    cursor: pointer;
+}
+.logo{
+    text-align: center;
+}
+.search img{
+    position: absolute;
+    margin-left: 420px;
+}
+.mic img{
+position: absolute;
+margin-left: 832px;
+
+}
+.search input{
+    text-align: center;
+    justify-content: center;
+    border: 0.5px solid black;
+    margin-bottom: 10px;
+    width: 37vw;
+    margin-left: 32vw;
+    height: 37px;
+    border-radius: 99px;
+}
+.button{
+      text-align: center;
+      padding: 10px;
+      text-decoration: none;
+}
+.hi{
+    
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+.language{
+    text-align: center;
+}
+.footer{
+    margin-top: 170px;
+    background-color: silver;
+}
+.footer_right{
+    position: absolute;
+}
+.pr{
+    margin-left: 700px;
+    text-decoration: none;
+    
+}
+.te{
+    margin-left: 20px;
+}
+.se{
+    margin: 20px;
+}
+.footer_left{
+    display: flex;
+    justify-content: left;
+}
+.About{
+    margin-right: 20px;
+    
+}
+.Ad{
+    margin-right: 20px;
+}
+.Bus{
+    margin-right: 20px;
+}
+.Ho{
+    margin-right: 20px;
+}
